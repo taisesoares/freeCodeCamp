@@ -1,6 +1,8 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "Taise",
+  "author": {
+    "name": "Taise Soares"
+  },
 	"dependencies": {
 		"express": "^4.14.0"
 	},
