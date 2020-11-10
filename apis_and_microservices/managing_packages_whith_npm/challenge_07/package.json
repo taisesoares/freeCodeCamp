@@ -1,0 +1,28 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "description": "Project developed to improve knowledge",
+  "author": {
+    "name": "Taise Soares"
+  },
+	"dependencies": {
+    "express": "^4.14.0",
+    "moment": "2.10.2"
+  },
+  "keywords": [
+		"freecodecamp",
+		"javascript",
+		"nodejs"
+  ],
+  "license": "MIT",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
